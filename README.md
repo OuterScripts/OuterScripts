@@ -23,7 +23,7 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=apple,discord,git,github,npm,pnpm,pycharm,robloxstudio,vercel,vscode,windows"
+			src="https://skillicons.dev/icons?i=apple,discord,git,github,npm,pnpm,robloxstudio,vercel,vscode,windows"
 		/>
 	</a>
 </p>
